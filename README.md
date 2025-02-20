@@ -5,6 +5,8 @@ Modules Used:-
 
 3. Cv2 :- pip install opencv-python
 
+4. cvzone :- pip install cvzone
+
 
 MAKE SURE TO USE Python 3.10 as INTERPRETER
 
