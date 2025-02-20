@@ -7,6 +7,8 @@ Modules Used:-
 
 4. cvzone :- pip install cvzone
 
+5. mediapipe :- pip install mediapipe
+
 
 MAKE SURE TO USE Python 3.10 as INTERPRETER
 
