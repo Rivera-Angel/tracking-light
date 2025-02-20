@@ -1,5 +1,3 @@
-# tracking-light
-
 Modules Used:-
 1. pyfirmata :- pip install pyFirmata
 
@@ -9,3 +7,4 @@ Modules Used:-
 
 
 MAKE SURE TO USE Python 3.10 as INTERPRETER
+
